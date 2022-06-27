@@ -2,7 +2,7 @@
 - 👀 I’m interested in my family life, meeting new people, snowboarding, construction and tech
 - 🌱 I’m currently learning web development tools/framework such as html, css, python and django
 - 💞️ I’m looking to collaborate on providing industry solutions, with the mobile phone audience primarily in mind, by way of web applications/pages
-- 📫 You can reach me at labelle_alex@live.com
+- 📫 You can reach me at ...
 
 <!---
 Tohz85/Tohz85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
